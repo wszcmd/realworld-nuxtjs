@@ -1,9 +1,5 @@
-# RealWorld
+api  https://github.com/gothinkster/realworld/tree/master/api
 
-```sh
-# 安装依赖
-npm install
 
-# 启动开发服务
-npm run dev
-```
+自动部署地址 
+47.96.94.154:8123
